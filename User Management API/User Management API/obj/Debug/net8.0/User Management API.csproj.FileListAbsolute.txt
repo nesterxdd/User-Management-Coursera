@@ -1,0 +1,32 @@
+C:\Users\P-Mac\source\repos\User Management API\User Management API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\P-Mac\source\repos\User Management API\User Management API\bin\Debug\net8.0\appsettings.json
+C:\Users\P-Mac\source\repos\User Management API\User Management API\bin\Debug\net8.0\User Management API.exe
+C:\Users\P-Mac\source\repos\User Management API\User Management API\bin\Debug\net8.0\User Management API.deps.json
+C:\Users\P-Mac\source\repos\User Management API\User Management API\bin\Debug\net8.0\User Management API.runtimeconfig.json
+C:\Users\P-Mac\source\repos\User Management API\User Management API\bin\Debug\net8.0\User Management API.dll
+C:\Users\P-Mac\source\repos\User Management API\User Management API\bin\Debug\net8.0\User Management API.pdb
+C:\Users\P-Mac\source\repos\User Management API\User Management API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\P-Mac\source\repos\User Management API\User Management API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\P-Mac\source\repos\User Management API\User Management API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\P-Mac\source\repos\User Management API\User Management API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\P-Mac\source\repos\User Management API\User Management API\obj\Debug\net8.0\User Management API.csproj.AssemblyReference.cache
+C:\Users\P-Mac\source\repos\User Management API\User Management API\obj\Debug\net8.0\User Management API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\P-Mac\source\repos\User Management API\User Management API\obj\Debug\net8.0\User Management API.AssemblyInfoInputs.cache
+C:\Users\P-Mac\source\repos\User Management API\User Management API\obj\Debug\net8.0\User Management API.AssemblyInfo.cs
+C:\Users\P-Mac\source\repos\User Management API\User Management API\obj\Debug\net8.0\User Management API.csproj.CoreCompileInputs.cache
+C:\Users\P-Mac\source\repos\User Management API\User Management API\obj\Debug\net8.0\User Management API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\P-Mac\source\repos\User Management API\User Management API\obj\Debug\net8.0\User Management API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\P-Mac\source\repos\User Management API\User Management API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\P-Mac\source\repos\User Management API\User Management API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\P-Mac\source\repos\User Management API\User Management API\obj\Debug\net8.0\staticwebassets\msbuild.User Management API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\P-Mac\source\repos\User Management API\User Management API\obj\Debug\net8.0\staticwebassets\msbuild.build.User Management API.props
+C:\Users\P-Mac\source\repos\User Management API\User Management API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.User Management API.props
+C:\Users\P-Mac\source\repos\User Management API\User Management API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.User Management API.props
+C:\Users\P-Mac\source\repos\User Management API\User Management API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\P-Mac\source\repos\User Management API\User Management API\obj\Debug\net8.0\scopedcss\bundle\User Management API.styles.css
+C:\Users\P-Mac\source\repos\User Management API\User Management API\obj\Debug\net8.0\User Man.EF2BA062.Up2Date
+C:\Users\P-Mac\source\repos\User Management API\User Management API\obj\Debug\net8.0\User Management API.dll
+C:\Users\P-Mac\source\repos\User Management API\User Management API\obj\Debug\net8.0\refint\User Management API.dll
+C:\Users\P-Mac\source\repos\User Management API\User Management API\obj\Debug\net8.0\User Management API.pdb
+C:\Users\P-Mac\source\repos\User Management API\User Management API\obj\Debug\net8.0\User Management API.genruntimeconfig.cache
+C:\Users\P-Mac\source\repos\User Management API\User Management API\obj\Debug\net8.0\ref\User Management API.dll
